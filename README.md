@@ -120,5 +120,7 @@
 
 > PLOGS:项目任务日志管理系统 [https://gitee.com/macplus/plogs](https://gitee.com/macplus/plogs)
 
+> WSCH:鉴权内容检索系统 https://gitee.com/macplus/wsch
+
 ## 商业版产品介绍
  > 知识库/在线答題/在线学习产品介绍 [http://www.wcpknow.com/home/index.html](http://www.wcpknow.com/home/index.html)
