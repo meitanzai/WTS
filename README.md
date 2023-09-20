@@ -92,6 +92,8 @@
 #### 使用说明
 
 1.  [用户手册下载地址](http://www.wcpdoc.com/webdoc/view/Pub2c909b2b6fbdee960170394c7fa1517a.html)
+2.  [数据库说明书下载地址](www.wcpdoc.com/webdoc/real/Pub2c94830b8a8e24e7018ab161f9a4497a.html)
+
 
 #### 界面截图
 
